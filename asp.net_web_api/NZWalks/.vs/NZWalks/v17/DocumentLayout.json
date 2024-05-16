@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\web-study-work-\\asp.net_web_api\\nzwalks\\nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\web-study-work-\\asp.net_web_api\\nzwalks\\nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\web-study-work-\\asp.net_web_api\\nzwalks\\nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:37:22.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\appsettings.json",
+              "RelativeToolTip": "NZWalksAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T15:41:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:14:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:24:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:54:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Program.cs",
+              "RelativeToolTip": "NZWalksAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:37:01.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:25:55.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAD4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:30:05.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:16:51.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240511055202_Creating Auth Database.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
+              "RelativeToolTip": "NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:52:02.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\WalksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:46:41.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:59:48.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
