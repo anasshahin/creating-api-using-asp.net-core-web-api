@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uThu4RaigVjI37jA0gk7jWPb8zFhWaOw0YmMUrOdpb/YFW5HOph3wP4yCvsRevGWkwtBrtX/6Lnnd/bftZMjRg==",
+  "dgSpecHash": "emmPagCNofIvWvgG1WqJU9hz6OhxnRl+IE+2zSg1zQ68kcUbjccm9UmMCJaFWXxim2ekWM24HzQdAcwI7K/nMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
+  "projectFilePath": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emran\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\emran\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -26,6 +26,7 @@ namespace NZWalksAPI.Data
         public DbSet<Difficulty> Difficulies { get; set; }
         public DbSet<Region> Regions { get; set; }
         public DbSet<Walk> Walks { get; set; }
+        public DbSet<Image> Images { get; set; }
         // these three properties will create tables in database
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

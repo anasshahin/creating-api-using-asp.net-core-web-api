@@ -1,53 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\",
+  "WorkspaceRootPath": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\nzwalks\\nzwalksapi\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\web-study-work-\\asp.net_web_api\\nzwalks\\nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\nzwalks\\nzwalksapi\\migrations\\20240518104926_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\migrations\\20240518104926_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\nzwalks\\nzwalksapi\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\web-study-work-\\asp.net_web_api\\nzwalks\\nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\web-study-work-\\asp.net_web_api\\nzwalks\\nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\emran\\documents\\my work\\flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\nzwalks\\nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6651CA78-3A41-4B13-AC8C-1C8ABCBA26E8}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,82 +70,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\TokenRepository.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
-              "RelativeToolTip": "NZWalksAPI\\Repositories\\TokenRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T10:37:22.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\appsettings.json",
-              "RelativeToolTip": "NZWalksAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-29T15:41:42.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "NZWalksAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAqAAAA",
+              "Title": "20240518104926_Adding Images Table.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\20240518104926_Adding Images Table.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\20240518104926_Adding Images Table.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\20240518104926_Adding Images Table.cs",
+              "RelativeToolTip": "NZWalksAPI\\Migrations\\20240518104926_Adding Images Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:14:28.766Z",
+              "WhenOpened": "2024-05-18T10:49:26.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Title": "NZWalkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "RelativeToolTip": "NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T09:24:11.477Z",
+              "WhenOpened": "2024-05-18T10:07:44.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
-              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "DocumentIndex": 2,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\Domain\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:54:05.963Z",
+              "WhenOpened": "2024-05-18T09:30:57.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:14:28.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Program.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Program.cs",
               "RelativeToolTip": "NZWalksAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA9AAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T13:37:01.112Z",
               "EditorCaption": ""
@@ -141,23 +139,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
-              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\appsettings.json",
+              "RelativeToolTip": "NZWalksAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T15:41:42.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:25:55.244Z",
+              "WhenOpened": "2024-05-08T09:24:11.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:37:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:54:05.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:25:55.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
               "RelativeToolTip": "NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAD4AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "NZWalksAuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
               "RelativeToolTip": "NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAkwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "20240511055202_Creating Auth Database.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
               "RelativeToolTip": "NZWalksAPI\\Migrations\\NZWalksAuthDb\\20240511055202_Creating Auth Database.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,11 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "WalksController.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\WalksController.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
               "RelativeToolTip": "NZWalksAPI\\Controllers\\WalksController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
               "RelativeToolTip": "NZWalksAPI\\Repositories\\IWalkRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

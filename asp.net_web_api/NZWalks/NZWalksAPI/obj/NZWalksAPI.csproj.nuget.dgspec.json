@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj": {}
+    "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj": {
+    "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
+        "projectUniqueName": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
         "projectName": "NZWalksAPI",
-        "projectPath": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
+        "projectPath": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
         "packagesPath": "C:\\Users\\emran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emran\\Documents\\my work\\web-study-work-\\asp.net_web_api\\NZWalks\\NZWalksAPI\\obj\\",
+        "outputPath": "C:\\Users\\emran\\Documents\\my work\\Flutter\\flutter_work\\creating-api-using-asp.net-core-web-api\\asp.net_web_api\\NZWalks\\NZWalksAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

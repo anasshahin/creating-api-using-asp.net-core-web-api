@@ -15,15 +15,9 @@ using System.Linq.Expressions;
 namespace NZWalksAPI.Controllers
 {
     [Route("api/[controller]")]
-    /*
-     The Route attribute is basically defining the root whenever a user enters this root along with the application
-     URL, it will be pointed to the region's controller.
-     */
+    
     [ApiController]
-    /*
-     So the ApiController attribute will tell this application that this controller is for API use.
-    */
-    [Authorize]
+   
     public class RegionsController : ControllerBase
     {
         private readonly NZWalkDbContext dbContext;
@@ -40,25 +34,13 @@ namespace NZWalksAPI.Controllers
         // GET ALL REGIONS
         // GET: https://localhost:portnumber/api/regions
         [HttpGet]
+        [Authorize (Roles = "Reader")]
         public async Task<IActionResult> GetAll() {
-            // Task must use if i want to use async
-            // Get data from Database - Domain models
+           
             List<Region> regionsDomain = new List<Region>();
             regionsDomain =await regionRepository.GetAllAsync();
-            //Map Domain Models to DTOs
-            /*  var regionsDto = new List<RegionDto>();
-              foreach (var region in regionsDomain)
-              {
-                  regionsDto.Add(new RegionDto() 
-                  {
-                    Code = region.Code,
-                    Id = region.Id,
-                    Name = region.Name,
-                    RegionImageUrl = region.RegionImageUrl
-                  }
-
-                      );
-              }*/
+           
+            
             //Map Domain Models to DTOs
             var regionsDto = mapper.Map<List<RegionDto>> (regionsDomain);
             // Return DTOs
@@ -71,21 +53,11 @@ namespace NZWalksAPI.Controllers
 
         [HttpGet]
         [Route ("{id:Guid}")]
-        /*
-            make sure the ID property [Route ("{id:Guid}")] matches GetById(Guid id). (have the same name)           (have the same name) 
-         [Route ("{id:Guid}")] here we put Guid to make type safe
-           [FromRoute] we till them that is parameter come from Route
-            */
+
+        [Authorize(Roles = "Reader")]
         public async Task<IActionResult> GetById([FromRoute]Guid id)
         {
-            // Get data from Database - Domain models
-          // var regionsDomain = await dbContext.Regions.FindAsync(id);// find using primary key only 
-            //use Find if not async
-            // another way
-            /*
-           var region = dbContext.Regions.FirstOrDefault(x=> x.Id==id);//can find using any property 
-            FirstOrDefaultAsync use for async programming
-             */
+          
             var regionsDomain= await regionRepository.GetByIdAsync(id);
             if (regionsDomain == null)
             {
@@ -98,6 +70,8 @@ namespace NZWalksAPI.Controllers
         // POST : https://localhost:portnumber/api/regions
         [HttpPost]
         [ValidateModel]
+        [Authorize(Roles = "Writer")]
+
         public async Task<IActionResult> Create([FromBody] AddRegionRequestDto addRegionRequestDto ) 
         {
          //   if (ModelState.IsValid)
@@ -108,19 +82,12 @@ namespace NZWalksAPI.Controllers
                 // Use Domain Model to Create Region
                 regionDomainModel = await regionRepository.CreateAsync(regionDomainModel);
 
-                // await dbContext.Regions.AddAsync(regionDomainModel);
-                // use Add if not async
-                // await dbContext.SaveChangesAsync();
-                // use SaveChanges if not async
-
+              
                 // Map Domain model back to DTO
                 var regionDto = mapper.Map<RegionDto>(regionDomainModel);
                 return CreatedAtAction(nameof(GetById), new { id = regionDto.Id }, regionDto);
 
-         //   }
-           // else { 
-           // return BadRequest(ModelState);
-           // }
+         
             
         }
         // Update
@@ -128,10 +95,10 @@ namespace NZWalksAPI.Controllers
         [HttpPut]
         [Route("{id}")]
         [ValidateModel]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Update([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegion )
         {
-           // if (ModelState.IsValid)
-         //   {
+          
                 // Map DTO to Domain Model
                 var regionsDomainModel = mapper.Map<Region>(updateRegion);
                 // Check if region exists
@@ -141,27 +108,19 @@ namespace NZWalksAPI.Controllers
                     return NotFound();
                 }
                 // Update region
-                // Map DTO to domain model
-                //  regionsDomainModel.Name = updateRegion.Name;
-                //regionsDomainModel.RegionImageUrl = updateRegion.RegionImageUrl;
-                //regionsDomainModel.Code = updateRegion.Code;
-                //await dbContext.SaveChangesAsync();
 
                 // Convert Domain Model to DTO
                 var regionDto = mapper.Map<RegionDto>(regionsDomainModel);
                 // return updated region
 
                 return Ok(regionDto);
-          //  }
-          //  else {
-           // return BadRequest(ModelState);
-        //    }
             
         }
         // Delete
         // Delete : https://localhost:portnumber/api/regions/{id}
         [HttpDelete]
         [Route("{id}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Delete([FromRoute] Guid id) {
             var regionDomainModel =await regionRepository.DeleteAsync(id);
 
@@ -171,9 +130,7 @@ namespace NZWalksAPI.Controllers
             }
 
             // Delete region
-            // dbContext.Regions.Remove(regionDomainModel);
-            // Remove Don't have async version like others
-            //  await dbContext.SaveChangesAsync();
+            
             // Convert Domain Model to DTO
             
             // return deleted region
